@@ -13,6 +13,9 @@ Understand common mistaked made with imbalanced datasets.
 
 # Outline:
 I. Understanding our data
+
 II. Preprocessing
+
 III. Random UnderSampling and Oversampling
+
 IV. Testing
